@@ -1,0 +1,130 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "b9f3d6a1-3cd4-4c29-9b36-d83a966f986d")
+	(paper "A4")
+	(title_block
+		(title "stm32_Red_Board")
+		(date "2026-08-01")
+	)
+	(lib_symbols)
+	(text_box ""
+		(exclude_from_sim no)
+		(at 64.77 42.545 0)
+		(size 0 0)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 3 3)
+			)
+			(justify top)
+		)
+		(uuid "d8575434-2c6b-4520-92e2-5093b88d1731")
+	)
+	(sheet
+		(at 19.685 19.05)
+		(size 46.355 42.545)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "04920c42-aa34-4f71-ac1c-ae0095f5dd01")
+		(property "Sheetname" "Block_Diagram"
+			(at 19.685 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Block_Diagram.kicad_sch"
+			(at 19.685 62.1796 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stm32f013 Red board"
+				(path "/b9f3d6a1-3cd4-4c29-9b36-d83a966f986d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.805 39.37)
+		(size 54.61 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fe74a66e-5402-496a-abfe-103a45e62311")
+		(property "Sheetname" "Stm32_Red_Board"
+			(at 90.805 38.6584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Stm32_Red_Board.kicad_sch"
+			(at 90.805 81.8646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stm32f013 Red board"
+				(path "/b9f3d6a1-3cd4-4c29-9b36-d83a966f986d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

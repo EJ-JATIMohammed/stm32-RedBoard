@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "23470435-078b-4bbf-b4f7-f0abc2d30f7d")
+	(paper "A4")
+	(lib_symbols)
+	(text "Block Diagram"
+		(exclude_from_sim no)
+		(at 143.256 27.432 0)
+		(effects
+			(font
+				(face "Arial Black")
+				(size 3 3)
+			)
+		)
+		(uuid "02435589-e7ac-4c87-9509-61cfca748293")
+	)
+)
